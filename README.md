@@ -1,2 +1,2 @@
 # LoRaWANTemperatureProbe
-Temperature probe using LoRaWAN and The Things Network to retrieve temperature measurements from a wood chip storage
+Temperature probe using LoRaWAN, The Things Network and MQTT to retrieve temperature measurements from a remote wood chip storage
